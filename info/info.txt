@@ -1,0 +1,83 @@
+admin
+email:admin@bookingcore.test
+passworld:Short123456789@5
+
+
+cpanle
+| Domain: thetailorsweb.com
+| Ip: 147.182.239.201 (n)
+| HasCgi: y
+| UserName: thetailorsweb
+| PassWord: Aa@112233@aA
+
+
+doman
+http://desertroad.thetailorsweb.com/
+doman dev
+http://dev.desertroad.thetailorsweb.com/
+
+cd /home/thetailorsweb/public_html/desertroad.thetailorsweb.com
+
+
+chmod -R 777 storage/
+chmod -R 777 public/
+php artisan optimize:clear
+git reset --hard origin/master
+git pull origin master
+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
+
+user admin
+admin@admin.com
+123456789
+role
+admin
+
+
+home page
+slider
+lin
+package
+1-component about us home page
+disptaination
+2-customes your trip
+email
+
+
+
+
+Facebook:
+Dessert road
+Phone no.:01027370781
+Pass: 123456789tailors
+Desertroad
+
+
+Twitter:
+Desert road
+email:desertroad416@gmail.com
+Pass: 123456789tailors
+
+
+
+Gmail:
+desertroad416@gmail.com
+Pass: 123456789tailors
+
+
+
+Stripe Payment Gateway
+visa
+Name on Card:
+test@example.com
+Card Number:
+4242 4242 4242 4242
+CVC:
+123
+Expiration Month:
+01
+Expiration Year:
+2024
+
+
+line stripe
+https://dashboard.stripe.com/test/payments?status[0]=successful
